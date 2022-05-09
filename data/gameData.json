@@ -1,0 +1,48 @@
+[
+  {
+    "name": "A Way Out",
+    "genre": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  {
+    "name": "Valheim",
+    "genre": [
+      "Survival",
+      "Open World"
+    ]
+  },
+  {
+    "name": "Elden Ring",
+    "genre": [
+      "Fantasy",
+      "RPG",
+      "Open World"
+    ]
+  },
+  {
+    "name": "Forza Horizon 5",
+    "genre": [
+      "Racing",
+      "Open World",
+      "Multiplayer"
+    ]
+  },
+  {
+    "name": "Prototype",
+    "genre": [
+      "Action",
+      "Open World",
+      "Hack and slash"
+    ]
+  },
+  {
+    "name": "Final Fantasy XIV",
+    "genre": [
+      "MMO",
+      "Open World",
+      "Hack and slash"
+    ]
+  }
+]
