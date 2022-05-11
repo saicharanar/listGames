@@ -1,21 +1,21 @@
 [
   {
     "id": 1,
-    "name": "A Way Out",
+    "name": "Watch Dogs 2",
     "genre": [
       "Action",
-      "Adventure"
+      "Open World"
     ],
-    "src": "http://s01.riotpixels.net/data/3d/4e/3d4e6fef-05ec-48be-a76b-0ae7f3f1446e.jpg.1080p.jpg/artwork.way-out.1525x1080.2017-06-11.1.jpg"
+    "src": "https://i.pinimg.com/236x/f3/07/64/f307646c6a6cb27a293f00fb9b5b4a1d.jpg"
   },
   {
     "id": 2,
-    "name": "Valheim",
+    "name": "Halo Infinte",
     "genre": [
-      "Survival",
+      "FPS",
       "Open World"
     ],
-    "src": "https://i.pinimg.com/236x/2b/3e/13/2b3e1367e41064dff0e804245a699212.jpg"
+    "src": "https://i.pinimg.com/236x/47/50/e3/4750e36f76f03e6b149e890bdefc2b74.jpg"
   },
   {
     "id": 3,
@@ -25,7 +25,7 @@
       "RPG",
       "Open World"
     ],
-    "src": "http://s01.riotpixels.net/data/b5/de/b5de7a3a-dbf1-4d43-8e52-811db4b4c400.jpg.1080p.jpg/cover.elden-ring.720x1080.2022-01-30.40.jpg"
+    "src": "https://i.pinimg.com/236x/40/0a/a1/400aa1b5eab4d148f3ffa3764aba2eed.jpg"
   },
   {
     "id": 4,
@@ -39,13 +39,14 @@
   },
   {
     "id": 5,
-    "name": "Prototype",
+    "name": "Horizon Zero Dawn",
     "genre": [
       "Action",
       "Open World",
-      "Hack and slash"
+      "Hack and slash",
+      "Adventure"
     ],
-    "src": "https://i.pinimg.com/236x/28/16/18/2816181651866ab1af808b42241fe01d.jpg"
+    "src": "https://i.pinimg.com/236x/2a/06/a4/2a06a433492c723b607aee8f25f6fdac.jpg"
   },
   {
     "id": 6,
@@ -56,5 +57,24 @@
       "Hack and slash"
     ],
     "src": "http://s01.riotpixels.net/data/9e/09/9e093e45-00bb-45ca-bc03-d49a8a9daddd.jpg.1080p.jpg/cover.final-fantasy-14-a-realm-reborn.764x1080.2014-10-31.805.jpg"
+  },
+  {
+    "id": 7,
+    "name": "NFS Heat",
+    "genre": [
+      "Racing",
+      "Open World",
+      "Multiplayer"
+    ],
+    "src": "https://i.pinimg.com/236x/35/ef/a3/35efa35d20d0aa37fa16dd35b135c654.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Conqueror's Blade",
+    "genre": [
+      "MMO",
+      "Hack and slash"
+    ],
+    "src": "https://i.pinimg.com/236x/9d/cd/e9/9dcde9ff90f862617aa70f4e5c21e175.jpg"
   }
 ]
